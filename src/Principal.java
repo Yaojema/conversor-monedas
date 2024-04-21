@@ -30,6 +30,7 @@ public class Principal {
             System.out.println("****************************************");
 //            GeneradorDeArchivo generador = new GeneradorDeArchivo();
 //            generador.guardarJson(pelicula);
+//            generador.guardarJson(pelicula);
 
         } catch ( NumberFormatException e){
             System.out.println("No encontrado " + e.getMessage());
